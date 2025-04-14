@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/sgummadala/Desktop/Java Class files/java_json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgummadala/Desktop/Java Class files/opencsv-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgummadala/Desktop/Java Class files/com.sap.xpi.ib.mapping.lib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sgummadala/Desktop/Java Class files/ngdbc-2.23.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
