@@ -23,7 +23,7 @@ import java.util.Base64 ;
 
 import org.json.JSONObject;
 
-public class CompressJson {
+public class CompressJson_new {
 
 	public static File inFolder = new File(
 			"C:\\UnCompressedFiles");

@@ -22,7 +22,7 @@ import java.util.Base64 ;
 import org.json.JSONObject;
 import org.json.XML;
 
-public class DecompressJson {
+public class DecompressJson_new {
 
 	public static File inFolder = new File(
 			//"C:\\Users\\C006810\\Documents\\01-ITPR019856-CAR Documents\\00-UnitTesting\\SI008\\T\\Comp");
