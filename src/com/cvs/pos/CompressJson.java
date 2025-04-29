@@ -27,9 +27,11 @@ import  org.json.* ;
 public class CompressJson {
 
 	public static File inFolder = new File(
-			"C:\\UnCompressedFiles");
+	//		"C:\\UnCompressedFiles");
+"C://Users/sgummadala/Desktop/DeCompress");
 	public static File outFolder = new File(
-			"C:\\CompressedFiles");
+		//	"C:\\CompressedFiles");
+"C://Users/sgummadala/Desktop/Compress");
 	public static String inFileName = null;
 	public static String outFileName = null;
 	public static String absInPath = null;
