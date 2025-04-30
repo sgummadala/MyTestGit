@@ -1,4 +1,5 @@
 //package com.cvs.csa.java.utilities;
+package com.cvs.pos;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

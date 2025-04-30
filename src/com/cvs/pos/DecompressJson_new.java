@@ -1,3 +1,5 @@
+package com.cvs.pos;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.ByteArrayInputStream;
@@ -37,8 +39,7 @@ public class DecompressJson_new {
 	public static String absInPath = null;
 	public static String absOutPath = null;
 
-	public static void main(String[] args) throws FileNotFoundException,
-			IOException {
+	public static void main(String[] args) throws FileNotFoundException,IOException {
 		absInPath = inFolder.getAbsolutePath();
 		String absFileName = null;
 		String absOutFileName = null;
